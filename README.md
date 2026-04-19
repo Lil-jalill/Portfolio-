@@ -48,7 +48,7 @@ Utilisation de VirtualBox pour créer des machines virtuelles
 Commandes Linux de base
 Gestion des utilisateurs et des permissions
 
-# ⚙️ Outils utilisés
+# ⚙️ Outils utilisés 
 
 pfSense : configuration de pare-feu
 Squid : gestion d’un serveur proxy
