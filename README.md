@@ -129,6 +129,7 @@ Email : jalillacakpoaddra@gmail.com
 
 Téléphone : 97 85 50 90
 
+
 # 🧾 10. Conclusion
 
 Ce portfolio présente mon parcours en première année de sécurité informatique. Il reflète mes premières compétences, mes projets réalisés et ma motivation à évoluer dans ce domaine.
